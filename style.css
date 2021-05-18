@@ -1,0 +1,17 @@
+.whiteBack {
+    background-color: white;
+    height: 400px;
+    width: 800px;
+    outline: 5px solid black;
+    margin: 20px 20px 20px 20px;
+}
+
+.redDot {
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    border-radius: 60%;
+    position:relative;
+    left: 300px;
+    top: 97px;
+}
